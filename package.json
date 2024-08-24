@@ -5,8 +5,8 @@
   "scripts": {
     "start": "nodemon server.js"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["Todo App", "Tasklyst", "Task Organiser","Daily Task Panner"],
+  "author": "Shivam And Tanishka",
   "license": "ISC",
   "description": "",
   "dependencies": {
